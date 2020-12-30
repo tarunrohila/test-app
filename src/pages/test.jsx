@@ -4,7 +4,7 @@ class Test extends Component {
     render() {
         return (
             <div>
-                Test App
+                Test App2
             </div>
         );
     }
